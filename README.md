@@ -27,6 +27,7 @@ To link each instance to its corresponding KITTI3D bounding box, we use followin
 ## Download
 
 Download the original dataset from the [official KITTI website](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
+
 Download our instance segmentation annotations [here](https://github.com/HeylenJonas/KITTI3D-Instance-Segmentation-Devkit/raw/main/data_object_instance_2.zip) (15MB).
 
 
